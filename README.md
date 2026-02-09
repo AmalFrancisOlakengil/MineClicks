@@ -52,6 +52,4 @@ Blocky-Clicks/
 
 This project is for educational and entertainment purposes. Minecraft is a trademark of Mojang Synergies AB.
 
----
 
-### **Would you like me to add a section on how to "Change the Sound" so users know they can swap `click.mp3` for a sound like "Level Up" or "Opening Chest"?**
