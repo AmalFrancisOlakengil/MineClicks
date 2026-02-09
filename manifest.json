@@ -1,0 +1,18 @@
+{
+  "manifest_version": 3,
+  "name": "Minecraft Button Clicker",
+  "version": "1.0",
+  "description": "Plays a Minecraft click sound on every button click.",
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "js": ["content.js"]
+    }
+  ],
+  "web_accessible_resources": [
+    {
+      "resources": ["click.mp3"],
+      "matches": ["<all_urls>"]
+    }
+  ]
+}
